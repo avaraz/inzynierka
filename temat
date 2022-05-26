@@ -8,7 +8,9 @@ Web application recommending movies based on K-nearest neighbours algorithm
 
 ZAGADNIENIA I PROBLEMY:
 
-Celem pracy jest stworzenie aplikacji internetowej, która na podstawie algorytmu k-najbliższych sąsiadów będzie zwracała filmy najbardziej przypominające ten wejściowy. Kryteria, które powinien brać pod uwagę algorytm to np. gatunek, rok produkcji czy ogólna ocena, nie powinien natomiast patrzeć na nazwę filmu. Użytkownik powinien mieć opcję wyboru ile propozycji zwróci mu system.
+Celem pracy jest stworzenie aplikacji internetowej, która na podstawie algorytmu k-najbliższych sąsiadów będzie zwracała filmy najbardziej przypominające ten wejściowy. 
+Kryteria, które powinien brać pod uwagę algorytm to np. gatunek, rok produkcji czy ogólna ocena, nie powinien natomiast patrzeć na nazwę filmu. 
+Użytkownik powinien mieć opcję wyboru ile propozycji zwróci mu system.
 
 
 PROPONOWANE OPROGRAMOWANIE:
