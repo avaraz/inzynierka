@@ -1,10 +1,7 @@
 <h2>TEMAT PRACY DYPLOMOWEJ:</h2>
 
-Aplikacja internetowa rekomendująca filmy na podstawie algorytmu K-najbliższych sąsiadów
-(w języku polskim)
-
-Web application recommending movies based on K-nearest neighbours algorithm
-(w języku angielskim)
+PL: Aplikacja internetowa rekomendująca filmy na podstawie algorytmu K-najbliższych sąsiadów</br>
+EN: Web application recommending movies based on K-nearest neighbours algorithm
 
 <h2>ZAGADNIENIA I PROBLEMY:</h2>
 
